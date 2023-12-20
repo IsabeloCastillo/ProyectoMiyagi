@@ -1,5 +1,6 @@
 
 ### Proyecto de Gestión de Datos y Usuarios
+![imagen_alternativo]https://github.com/IsabeloCastillo/ProyectoMiyagi/blob/master/imagen_portada2.png
 ## Descripción
 Este proyecto, desarrollado por **Isabelo Castillo** para **Tokio School**, es una aplicación completa para la gestión de usuarios y datos, enfocada en proporcionar una interfaz interactiva y funcional para la manipulación de información de productos y usuarios. Utilizando un stack tecnológico moderno y eficiente, esta aplicación ofrece un conjunto de herramientas robustas para el manejo de bases de datos y la generación de reportes.
 
